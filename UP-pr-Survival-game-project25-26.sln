@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UP-pr-Survival-game-project25-26", "UP-pr-Survival-game-project25-26\UP-pr-Survival-game-project25-26.vcxproj", "{5E085555-3823-4051-8374-C7A5A71704EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E085555-3823-4051-8374-C7A5A71704EC}.Debug|x64.ActiveCfg = Debug|x64
+		{5E085555-3823-4051-8374-C7A5A71704EC}.Debug|x64.Build.0 = Debug|x64
+		{5E085555-3823-4051-8374-C7A5A71704EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{5E085555-3823-4051-8374-C7A5A71704EC}.Debug|x86.Build.0 = Debug|Win32
+		{5E085555-3823-4051-8374-C7A5A71704EC}.Release|x64.ActiveCfg = Release|x64
+		{5E085555-3823-4051-8374-C7A5A71704EC}.Release|x64.Build.0 = Release|x64
+		{5E085555-3823-4051-8374-C7A5A71704EC}.Release|x86.ActiveCfg = Release|Win32
+		{5E085555-3823-4051-8374-C7A5A71704EC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04ED5398-B129-4F42-9161-BD2B22087E19}
+	EndGlobalSection
+EndGlobal
